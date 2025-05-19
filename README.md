@@ -59,7 +59,7 @@ g++ main.cpp -o bplus
 3. Execute o programa:
 
 ```bash
-./bplus
+.\'main.exe'
 ```
 
 4. O resultado estará no arquivo `out.txt` e o índice persistido em `indice.txt`.
@@ -93,5 +93,5 @@ Exemplo de nó folha:
 - As inserções não atualizam registros existentes com ano duplicado (evitam reinserção).
 
 ## 👨‍💻 Autor
+Felipe Reges De Albuquerque
 
-Implementado como parte da disciplina **CK0117 - Sistemas de Bancos de Dados (2025.1)**.
